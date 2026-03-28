@@ -1,4 +1,4 @@
-# AI Chatbox Application
+# AI Chatbox Application (Assignment)
 
 A responsive chatbox application built with **React**, **Redux Toolkit**, and **Tailwind CSS** that integrates with the **Google Gemini API** to provide real-time AI responses.
 
